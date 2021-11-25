@@ -27,7 +27,7 @@ function preload(){
   groundImg = loadImage("fg.png")
 
   jumpSound = loadSound("jump.mp3")
-  checkPointSound = loadSound("checkPoint.mp3")
+  checkPointSound = loadSound("checkpoint.mp3")
   gmSound = loadSound("gm ov.mp3")
  }
 
